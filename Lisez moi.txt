@@ -1,5 +1,0 @@
-Bonjour Madame Monsieur, ce site vitrine est le tout premier site web que j'ai réalisé à l'aide d'un vidéaste se nommant "French Coder - Développement Web".
-J'ai suivi étape par étape les consignes qu'il donnait tout au long de la vidéo en regardant minutieusement pourquoi il utilisait telle ou telle balise;
-(c'est notamment dans cette vidéo que j'ai découvert le style Css qui m’a permis de donner de la couleur à mon site vitrine). 
-Mon site ressemblé à celui sur la vidéo c'était avant tout pour apprendre les bases en HTML et css mais en rajouter ma touche personnelle.
-Ce site vitrine était donc avant tout un support de travail m'aidant avant tout à comprendre le language HTML et Css ainsi qu'a le pratiquer.
