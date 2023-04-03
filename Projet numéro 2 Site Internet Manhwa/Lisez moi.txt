@@ -1,0 +1,8 @@
+Bonjour Madame Monsieur, voici un projet de site internet valorisant un roman que j'affectionne tout particulièrement omniscient reader's viewpoint.
+Ce site a étais fait en binôme (Moi ainsi qu'une élève en licence 2 D'art Design).
+Cette personne était chargée de l'aspect du site comme un Ui designer (trouver les images, les fonds, me donner des directives sur lesquelles les placer etc..),
+tandis que moi j'étais chargé de mettre tout ça au propre en codage en utilisant le language HTML et Css.
+C'est en m'aidant seulement des connaissances acquises lors des vidéos sur internet expliquant qu'est-ce que le développement, le codage ainsi qu'aux enseignements de mon entourage travaillant dans ce milieu que j'ai pu crée ce site web.
+C'est un peu le travail final de tout ce que j'ai appris en autodidact mais je sais que je dois parcourir un long chemin pour réaliser un travail qui soit réellement satisfaisant au yeux de tous c'est pour quoi je vous écris et
+c'est pour cela que je veux intégrer le BUT MMI.
+
